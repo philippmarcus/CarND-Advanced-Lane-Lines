@@ -18,33 +18,28 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image0]: ./img/calibration_images.png "Chessboard images for calibration"
-[image1]: ./img/undistort_output.png "Undistorted"
-[image1_1]: ./img/undistort_output2.png "Undistorted"
+[image0]: ./reports/img/calibration_images.png "Chessboard images for calibration"
+[image1]: ./reports/img/undistort_output.png "Undistorted"
+[image1_1]: ./reports/img/undistort_output2.png "Undistorted"
 
-[image1_2]: ./img/color_channels.png "HLS transformation"
-[image1_3]: ./img/s_filter_result.png "Result of filtering the s-channel"
+[image1_2]: ./reports/img/color_channels.png "HLS transformation"
+[image1_3]: ./reports/img/s_filter_result.png "Result of filtering the s-channel"
 
-[image1_4]: ./img/gray_versions.png "Gray-scaled versions"
-[image1_5]: ./img/sobel_images.png "Sobel Images"
-[image1_6]: ./img/combined_thresholded.png "OR-combination thresholded images"
+[image1_4]: ./reports/img/gray_versions.png "Gray-scaled versions"
+[image1_5]: ./reports/img/sobel_images.png "Sobel Images"
+[image1_6]: ./reports/img/combined_thresholded.png "OR-combination thresholded images"
 
-[image1_7]: ./img/perspective_transform.png "Calibrating the perspective transform"
-[image1_8]: ./img/perspective_transform_example.png "Example perspective transform"
-[image1_9]: ./img/perspective_transform_binary.png "Example perspective transform (binary)"
+[image1_7]: ./reports/img/perspective_transform.png "Calibrating the perspective transform"
+[image1_8]: ./reports/img/perspective_transform_example.png "Example perspective transform"
+[image1_9]: ./reports/img/perspective_transform_binary.png "Example perspective transform (binary)"
 
-[image1_10]: ./img/lane_initialization.png "Locating the start of the lane lines"
-[image1_11]: ./img/sliding_window_example.png "Sliding Window example"
+[image1_10]: ./reports/img/lane_initialization.png "Locating the start of the lane lines"
+[image1_11]: ./reports/img/sliding_window_example.png "Sliding Window example"
 
-[image1_12]: ./img/polygon_search_example.png "Polygon search example"
-[image1_13]: ./img/final_result.png "Final result"
+[image1_12]: ./reports/img/polygon_search_example.png "Polygon search example"
+[image1_13]: ./reports/img/final_result.png "Final result"
 
-[image2]: ./test_images/test1.jpg "Road Transformed"
-[image3]: ./examples/binary_combo_example.jpg "Binary Example"
-[image4]: ./examples/warped_straight_lines.jpg "Warp Example"
-[image5]: ./examples/color_fit_lines.jpg "Fit Visual"
-[image6]: ./examples/example_output.jpg "Output"
-[video1]: ./project_video.mp4 "Video"
+[video1]: ./reports/project_video.mp4 "Video"
 
 
 
